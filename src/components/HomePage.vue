@@ -9,10 +9,10 @@ defineProps({
 </script>
 
 <template>
-  <nav class="navbar navbar-light bg-light">
+  <nav class="navbar navbar-dark bg-dark">
   <div class="container-fluid">
     <a class="navbar-brand" href="#">
-      <img src="/docs/5.0/assets/brand/bootstrap-logo.svg" alt="" width="30" height="24" class="d-inline-block align-text-top">
+      <img src="https://raw.githubusercontent.com/PaddyCooper08/rf-website/main/src/assets/recycling-logo.png" alt="" width="30" height="24" class="d-inline-block align-text-top">
       Recycling Identifier
     </a>
   </div>
